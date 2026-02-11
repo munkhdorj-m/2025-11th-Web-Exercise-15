@@ -1,18 +1,15 @@
-# Web Programming Exercise 14
+# Web Programming Exercise 15
 Javascript Lectures:
 https://drive.google.com/drive/folders/18cbP7MUFi-wQ0m3TJKM8mJLyr6S75cWF?usp=sharing
 
-## Exercise 1: Color Generator  
-
-Generate colored boxes dynamically.  
+## Exercise 1: Theme Switcher
+One page with multiple components that all change theme.
  
 Requirements:  
 
-• Button creates 12 color boxes    
-• Clicking a box shows its color code    
-• Hover animation    
-• Grid layout     
+• Light / Dark themes
+• Smooth transition
 
-https://github.com/user-attachments/assets/f3b1a78c-a7df-41aa-8029-8a6e934bb835
+https://github.com/user-attachments/assets/a2cb1472-01d0-4bbd-bf8e-ad87d2054a8f
 
 ---
